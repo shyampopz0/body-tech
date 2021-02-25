@@ -470,11 +470,11 @@ hr{
 			text-align: center;
 			font-family: 'Berkshire Swash', cursive;
 		}
-		@media(max-width: 450px){
+/*		@media(max-width: 450px){
 			.details{
 				bottom: -115px;
 			}
-		}
+		} */
 footer{
 	/*height: 300px;*/
 	position: relative;
