@@ -23,7 +23,7 @@ header{
 header .logo{
 	color: #ff236a;
 	height: 100px;
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Raleway', sans-serif;
 	line-height: 80px;
 	font-size: 34px;
 	float: left;
@@ -36,7 +36,7 @@ header .logo img{
 }
 header nav{
 	float: right;
-	font-family: 'Patrick Hand', cursive;
+	font-family: 'Raleway', sans-serif;
 }
 header nav ul{
 	margin: 0;
