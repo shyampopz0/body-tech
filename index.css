@@ -7,7 +7,7 @@ body{
 	padding: 0;
 }
 header{
-	position: absolute;
+	position: fixed;
 	background: #000;
 	z-index: 1000;
 	scroll-behavior: smooth;
@@ -17,7 +17,7 @@ header{
 	width: 100%;
 	margin: auto;
 	box-sizing: border-box;
-	box-shadow: 0 16px 28px rgb(0 0 0), 0 10px 10px rgba(0,0,0,0.22);
+/* 	box-shadow: 0 16px 28px rgb(0 0 0), 0 10px 10px rgba(0,0,0,0.22); */
 }
 header .logo{
 	color: #ff236a;
@@ -461,7 +461,7 @@ hr{
 		}
 		.details h1 {
 			margin: 0;
-			padding: 0;
+			padding: 15px;
 			text-align: center;
            font-family: 'Raleway', sans-serif;
 		}
