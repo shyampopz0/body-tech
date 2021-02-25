@@ -416,7 +416,6 @@ hr{
             cursor: pointer;
             position: relative;
            /* padding: 10px;*/
-            box-shadow: 0 5px 15px rgba(0,0,0,.25);
 			border-radius: 25px;
 			overflow: hidden;
 			display: flex;/*
@@ -425,7 +424,7 @@ hr{
 			flex-wrap: wrap;
 			overflow: hidden;
 			width: 450px;
-			box-shadow: 0 16px 28px rgb(0 0 0 / 42%), 0 10px 10px rgb(0 0 0 / 18%);
+			box-shadow: -1px 3px 28px rgb(0 0 0 / 42%), -1px 3px 5px rgb(0 0 0 / 18%);
     
 		}
 		
