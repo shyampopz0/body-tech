@@ -229,7 +229,9 @@ hr{
 	width: 80%;
 	margin: auto;
 	text-align: center;
-	font-size: 20px;
+	font-size: 18px;
+	line-height: 20px;
+	letter-spacing: 1px;
 	font-family: 'Raleway', sans-serif;
 }
 @media (max-width: 600px){
