@@ -440,7 +440,7 @@ hr{
 		
 		.details{
 			text-align: left;
-			z-index: 1020;
+			z-index: 999;
 			background-color: #fff4f4c9;
 			padding: 10px;
 			box-sizing: border-box;
