@@ -7,7 +7,7 @@ body{
 	padding: 0;
 }
 header{
-	position: absolute;
+	position: fixed;
 	background: #000;
 	z-index: 1000;
 	scroll-behavior: smooth;
