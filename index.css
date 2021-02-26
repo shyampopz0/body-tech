@@ -467,12 +467,12 @@ hr{
 		}
 		.thumb:hover .details{
             bottom: 0px;
-            background: #fff4f42b;
+            background: #0000008a;
             color: #fff;
 		}
-		.thumb:hover img{
+/* 		.thumb:hover img{
 			filter: brightness(30%);
-		}
+		} */
 		.details h1 {
 			margin: 0;
 			padding: 15px;
