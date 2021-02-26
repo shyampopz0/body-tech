@@ -449,7 +449,7 @@ hr{
 			object-position: top;
 			object-fit: cover;
 			position: absolute;
-			transition: .3s;
+/* 			transition: .3s; */
 		}
 		
 		.details{
