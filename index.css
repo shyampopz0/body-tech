@@ -545,6 +545,9 @@ footer{
 	flex-wrap: wrap;
 	font-family: 'Raleway', sans-serif;
 }
+.foot-cont-2 div{
+	flex-basis: 100%;
+}
 .foot-cont-1 a{
 	text-decoration: none;
 	color: #fd7e02;
