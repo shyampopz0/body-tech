@@ -468,8 +468,9 @@ hr{
 		.thumb:hover .details{
             bottom: 0px;
             background: #0000008a;
-            color: #fff;
+/*             color: #fff; */
 		}
+
 /* 		.thumb:hover img{
 			filter: brightness(30%);
 		} */
@@ -478,6 +479,11 @@ hr{
 			padding: 15px;
 			text-align: center;
            font-family: 'Raleway', sans-serif;
+		}
+.thumb:hover .details h1{
+            bottom: 0px;
+            background: #0000008a;
+            color: #fdf700;
 		}
 		.details p{
 			text-align: center;
