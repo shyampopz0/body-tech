@@ -528,7 +528,9 @@ footer{
 	padding: 20px;
 	text-align: center;
 	display: flex;
+	line-height: 25px;
 	color: #fd7d00;
+	letter-spacing: 1px;
 	align-items: center;
 	flex-wrap: wrap;
 	font-family: 'Raleway', sans-serif;
@@ -538,6 +540,7 @@ footer{
 	color: #fd7e02;
 	font-size: 16px;
 	line-height: 22px;
+	letter-spacing: 1px;
 	font-family: 'Raleway', sans-serif;
 }
 .foot-cont-1 a:hover{
@@ -553,6 +556,8 @@ footer{
 	flex-wrap: wrap;
 	font-family: 'Raleway', sans-serif;
 	justify-content: center;
+	letter-spacing: 1px;
+	line-height: 25px
 }
 @media(max-width: 960px){
 	footer{
