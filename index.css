@@ -607,9 +607,10 @@ footer{
 /* 	width: 100%; */
 	text-align: center;
 	color: #fff;
-	font-size: 20px;
+	font-size: 18px;
+	line-height: 27px;
 	letter-spacing: 1px;
-	birder-top: 1px solid #ffffff73;
+	border-top: 1px solid #ffffff73;
 	font-family: 'Raleway', sans-serif;
 }
 .Copyrights a{
@@ -620,6 +621,7 @@ footer{
 .Copyrights a:hover{
 	text-decoration: underline;
 }
+
 #myBtn {
   display: none;
   position: fixed;
