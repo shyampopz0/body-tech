@@ -500,6 +500,9 @@ hr{
 				bottom: -115px;
 			}
 		} */
+@media(max-width: 434px){
+	bottom: -120px;
+}
 footer{
 	/*height: 300px;*/
 	position: relative;
@@ -611,7 +614,7 @@ footer{
 /* 	width: 100%; */
 	text-align: center;
 	color: #fff;
-	font-size: 18px;
+	font-size: 16px;
 	letter-spacing: 1px;
 	line-height: 27px;
 	letter-spacing: 1px;
