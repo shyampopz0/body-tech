@@ -514,7 +514,8 @@ footer{
 	justify-content: space-around;
 }
 .foot-logo img{
-	width: 400px;
+	width: 250px;
+	height: auto;
 /* 	height: 130px;/* */
 /* 	padding-top: 60px;
 	font-size: 50px; */
@@ -596,6 +597,7 @@ footer{
 	.foot-logo img{
 		width: 80%;
 		margin: auto;
+		height: auto;
 	}
 	.foot-cont-1{
 		width: 70%;
