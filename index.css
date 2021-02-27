@@ -550,6 +550,7 @@ footer{
 }
 .foot-cont-2 div{
 	flex-basis: 100%;
+	margin-bottom: 25px;
 }
 .foot-cont-1 a{
 	text-decoration: none;
