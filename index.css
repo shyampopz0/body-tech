@@ -468,9 +468,8 @@ hr{
 		.thumb:hover .details{
             bottom: 0px;
             background: #0000008a;
-/*             color: #fff; */
+            /*color: #fff;*/
 		}
-
 /* 		.thumb:hover img{
 			filter: brightness(30%);
 		} */
@@ -480,14 +479,19 @@ hr{
 			text-align: center;
            font-family: 'Raleway', sans-serif;
 		}
-.thumb:hover .details h1{
+		.thumb:hover .details h1{
             bottom: 0px;
-            background: #0000008a;
-            color: #fdf700;
+           
+            color: #fd7d00;
 		}
 		.details p{
 			text-align: center;
 			font-family: 'Raleway', sans-serif;
+		}
+		.thumb:hover .details p{
+            bottom: 0px;
+           
+            color: #fff;
 		}
 /*		@media(max-width: 450px){
 			.details{
