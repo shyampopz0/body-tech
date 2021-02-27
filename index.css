@@ -602,6 +602,10 @@ footer{
 /* 	width: 100%; */
 	text-align: center;
 	color: #fff;
+	font-size: 20px;
+	letter-spacing: 1px;
+	birder-top: 1px solid #ffffff73;
+	font-family: 'Raleway', sans-serif;
 }
 .Copyrights a{
 	text-decoration: none;
