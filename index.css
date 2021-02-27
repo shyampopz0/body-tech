@@ -600,10 +600,11 @@ footer{
 		height: auto;
 	}
 	.foot-cont-1{
-		width: 70%;
+		width: 100%;
 	}
-	.foot-cont-2{width: 90%;}
-	.foot-cont-3{width: 80%;}
+	.foot-cont-2{width: 100%;}
+	font-cont-2 div{margin-bottom:25px;}
+	.foot-cont-3{width: 100%;}
 }
 .Copyrights{
 /* 	width: 100%; */
