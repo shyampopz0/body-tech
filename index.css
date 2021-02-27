@@ -559,6 +559,10 @@ footer{
 	letter-spacing: 1px;
 	line-height: 25px
 }
+.foot-cont-3 a{
+	text-decoration: none;
+	color: #fd7d00;
+}
 @media(max-width: 960px){
 	footer{
 		padding: 0px;
